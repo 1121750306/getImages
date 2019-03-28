@@ -1,1 +1,1 @@
-# getImages
+- use command npm init to init project
